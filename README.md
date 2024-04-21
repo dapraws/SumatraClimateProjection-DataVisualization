@@ -1,5 +1,8 @@
 # Sumatra Climate Projection - Data Visualization
-
+Group 10
+- M Antarez Qhadafi (1301210572) 
+- M Darrel Prawira (1301210479) 
+- Fathan Askar (1301213374)
 ![Midterm_Visdat_Kelompok_10](https://github.com/dapraws/SumatraClimateProjection_DataVisualization/assets/122019775/f89101ed-3483-4299-8ac0-71f7754cd21e)
 
 
